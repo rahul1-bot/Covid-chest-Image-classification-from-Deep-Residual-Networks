@@ -17,4 +17,5 @@ _Help the medical and researcher community by sharing my work and encourage them
 
 
 ### Architecture::
-![WhatsApp Image 2021-05-13 at 5 08 28 AM](https://user-images.githubusercontent.com/65220704/118059052-341d9480-b3ad-11eb-80f9-0088d8f679a5.jpeg)
+![1622109464377](https://user-images.githubusercontent.com/65220704/119935480-3125c500-bfa5-11eb-9ef2-37cade099756.jpg)
+
