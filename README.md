@@ -16,6 +16,3 @@ _The University of Montreal for releasing the images._
 _Help the medical and researcher community by sharing my work and encourage them to contribute extensively._
 
 
-### Architecture::
-![1622109464377](https://user-images.githubusercontent.com/65220704/119935480-3125c500-bfa5-11eb-9ef2-37cade099756.jpg)
-
