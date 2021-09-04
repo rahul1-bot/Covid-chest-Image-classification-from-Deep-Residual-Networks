@@ -33,7 +33,7 @@ A residual network, or ResNet for short, is an artificial neural network that ai
 ## _Results_
 ![image](https://user-images.githubusercontent.com/65220704/132106741-ff78753b-3796-4355-84df-35d5b787b5f8.png)
 ![image](https://user-images.githubusercontent.com/65220704/132106749-96f631ca-0766-4d54-8d83-5920915cb08c.png)
-![image](https://user-images.githubusercontent.com/65220704/132106777-1c032126-882b-46da-8583-7395c2e7d40b.png)
+![image](https://user-images.githubusercontent.com/65220704/132106872-2dd86ce3-5c84-4767-9349-bd4814f80bad.png)
 ![image](https://user-images.githubusercontent.com/65220704/132106781-31b4ee40-aa8f-4197-b178-3a3309de61df.png)
 
 Assessing and approving the acceptance of the arranged methodology, we tend to direct this procedure multiple times by changing and adjusting the hyperparameters of the model. Each time different outcomes are acquired. This research paper shows the most appropriate result. The generated confusion matrixes for the training and validation datasets illustrates the efficient classification performance of the generated model. 
