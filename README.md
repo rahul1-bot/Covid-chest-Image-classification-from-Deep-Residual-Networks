@@ -2,8 +2,7 @@
 
 ## _Authors_
 1) _Rahul Sawhney_
-2) _Leah Pathan Khan_
-3) _Dr. Shilpi Sharma (Associate Professor)_
+2) _Dr. Shilpi Sharma (Associate Professor)_
 
 ## _Abstract_
 With the outbreak of the COVID-19 and its various mutations making the infections faster and severe, it is becoming extremely important to determine the presence of COVID-19 infection in one’s body at a faster pace. Tests of Molecular, Antigen and Chest Scans are conducted to determine the presence of infection in the body, however, the molecular and antigen tests like RT-PCR require some time ranging from 1-5 days depending upon the availability of lab in the locality and how they run their tests with equipment. On the other hand, Chest scans like X-Ray and CT scans require lesser time of 10-15 minutes for detection by MDs. But due to the rise in cases and increase in demand for tests, radiologists and MDs find it harder to respond in time. Chest X-Rays are preferred for their less intensity and effective cost compared to CT scans. The model presented in this paper has operated on a total of 317 images containing COVID-19, Viral Pneumonia and Normal Chest X-Ray images. The model achieves an accuracy of 99.5% in the testing phase for classification of a COVID-19 infected Chest X-Ray. The aim is to help reduce the time taken for identifying infected X-Rays thus helping conduct tests at a faster pace. 
