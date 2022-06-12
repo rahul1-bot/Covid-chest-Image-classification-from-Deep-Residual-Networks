@@ -44,4 +44,5 @@ _https://www.kaggle.com/pranavraikokte/covid19-image-dataset_
 ## _Conclusion_
 Undoubtedly, covid can be a fatal disease which can become very challenging to diagnose with high accuracy and precision. Therefore, creating this model would be highly beneficial in the clinical trials. Thus, we developed a CNN based deep neural network which observes and classify chest CT scans images into 3 classes. That CNN model begins by reconstructing frontal chest images into compressed size and classify them whether an individual is tainted with either covid, normal or contains viral pneumonia. This powerful model can be applied to various healthcare firms, which is a far better approach than any other traditional clinical trials. Nonetheless, there are lots of problems which must be solved in this astonishing field. In future, this architecture will exhibit various application in different domains as well.
 
-
+## Published Paper Link
+https://ieeexplore.ieee.org/document/9633472
